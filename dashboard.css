@@ -31,7 +31,15 @@ body {
     margin-bottom: 10px;
     color: #333;
   }
-  
+  .profile{
+    padding:10px;
+    background-color: rgb(233, 239, 235);
+    text-align: center;
+    border-radius: 10px;
+    color:black;
+    font-size: 20px;
+    font-weight: 800;
+  }
   .profile p,
   .respons-satas p {
     margin: 5px 0;
@@ -102,7 +110,7 @@ body {
     gap: 20px;
   }
   
-  .case {
+  .case, .past-case {
     background-color: #f9f9f9;
     padding: 15px;
     border-radius: 12px;
